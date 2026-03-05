@@ -12,7 +12,7 @@ I'm Francisco, a Product Manager with experience as an Engineering Manager and f
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://dev.to/fjaviertech](https://dev.to/fjaviertech)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fjaviertech" height="30" width="40" /></a>
+<a href="https://dev.to/fjaviertech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fjaviertech" height="30" width="40" /></a>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oscarz90" height="30" width="40" /></a>
 <a href="https://medium.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oscarz90" height="30" width="40" /></a>
 </p>
